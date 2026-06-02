@@ -3,7 +3,7 @@
 **Meal Prep Pro** is a frontend web application designed to help users plan and organize their meals efficiently. The project focuses on promoting healthy eating habits by simplifying meal planning through an intuitive and visually appealing interface.
 
 🔗 **Live Project:**  
-https://yesaswini19.github.io/
+https://yesaswini19.github.io/MealPrep-Pro/
 
 ---
 
